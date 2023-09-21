@@ -1,0 +1,32 @@
+{
+  "name": "random-json-data-generator",
+  "version": "1.0.0",
+  "description": "Generates random json objects from provided parameters to use for testing",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaxtonTerryDev/Random-JSON-Data-Generator.git"
+  },
+  "keywords": [
+    "json",
+    "random",
+    "generator",
+    "data",
+    "node"
+  ],
+  "author": "PaxtonTerryDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaxtonTerryDev/Random-JSON-Data-Generator/issues"
+  },
+  "homepage": "https://github.com/PaxtonTerryDev/Random-JSON-Data-Generator#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
